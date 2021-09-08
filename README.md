@@ -1,5 +1,7 @@
 # Confidence Interval Plot
 
+[![View Confidence Interval Plot on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/98919-confidence-interval-plot)
+
 Version: 1.0
 
 This chart creates a mean line within a shaded confidence interval area.
